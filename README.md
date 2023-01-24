@@ -1,1 +1,1 @@
-algorithm
+# Solution to tasks on Sorting algorithms
